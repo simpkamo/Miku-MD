@@ -8,18 +8,15 @@ global.antitags = true
 
 
 global.Owner = ['27788426353']
-global.OwnerNumber = ['27788426353']
-global.ownertag = ['27788426353']
-global.BotName = "baby_blue"
-global.packname = "baby_blue bot"
+global.OwnerNumber = ['27788426353,12703808627']
+global.ownertag = ['27788426353,12703808627']
+global.BotName = "Nocturno"
+global.packname = "PainBot"
 global.author = "By: baby_blue"
 global.OwnerName = "baby_blue💙"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
-global.sessionName = "session"
-
-
-
+global.BotSourceCode = "https://github.com/mimibotto2/Kusuo-Teku-MD"
+global.SupportGroupLink = "https://chat.whatsapp.com/EkjKlTsbtoOIfeWvjKYs5t"
+global.sessionName = "session
 global.prefa = ['.'] // Prefix ---  change it to anythong you want except @//
 
 
